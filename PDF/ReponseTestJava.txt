@@ -1,0 +1,119 @@
+1) 
+En bref, la machine virtuelle Java ou JVM est le composant de la plate-forme 
+Java qui exécute les programmes ; l’environnement de développement Java ou JRE crée la machine virtuelle Java ou JVM et 
+s'assure que les dépendances sont disponibles pour les programmes Java ; le kit de développement Java ou JDK permet de créer des programmes Java qui peuvent être exécutés par la JVM et le JRE.
+
+Les développeurs utilisent le JDK pour écrire leurs applications et la JVM pour les déboguer et les optimiser, améliorer les performances en particulier. 
+Le JRE tourne essentiellement en arrière-plan, mais il est possible de l'utiliser pour surveiller les applications et configurer la mémoire. C'est un aperçu, et il y a beaucoup plus à savoir sur chaque composant de la plate-forme.
+
+
+2)
+Définie a l'origine dans la class Object
+Comparer deux objets de même type, 
+Permet de définir les attribut qui définisse ( réécrirure de la méthode pour choisir les champs)
+Impact les autres méthode qui font appel a la methode equals ( sort sur les collections, indexof,...)
+
+
+3)
+la methode toString()
+
+4)
+null
+
+5)
+- Orienté objet
+- Portable (utilisable sur n'importe quel hardware)
+(Multi thread)
+
+6)
+-3 incorrect
+
+7)
+Signature (Nom + argument)
+
+8)
+Deuxieme methode -> 
+	Pour respecter l'encapsulation, la deuxieme methode est preferable
+
+
+9)
+private final static double nombreOr = 12;
+Une variable nom modifiable qui doit donc avoir une valeur de base -> Propriété lié au type pas besoin d'instancier 
+un objet pour y accéder.
+
+10)
+A) private / public / protected
+B) Type (int, String, double, ...)
+C) Nom (Descriptif en camelCase)
+D) Une valeur (OPTIONEL)
+
+11)
+Grace a un heritage 
+
+12)
+arc.en.ciel
+ArcEnCiel
+arcEnCiel
+ARC_EN_CIEL
+arcEnCiel
+
+13)
+Primitive: contient directement la valeur
+Objet: pointeur vers l'emplacement en memoire 
+
+15)
+FAUX
+
+16)
+1 - FAUX
+2 - VRAI
+3 - VRAI
+4 - FAUX
+
+17)
+Ligne 2 : ERROR INDEX OUT OF BOUND
+Ligne 3 : On cast une capital en aglomeration 
+Ligne 4: Pas d'erreur
+	-> Nom de variable pas adapté mais aucune erreur notre index 1 
+		est une Aglomeration qui est donc un enfant de Ville le type est bien Ville
+
+
+18) Une des fonctionnalités qui a fait le succès du Java est le ramasse-miettes, ou Garbage Collector. 
+C’est le processus qui permet de détruire les objets déréférencés de la heap de manière automatique et qui
+par conséquent libère le développeur de la gestion de la mémoire en Java.
+
+
+19) L'annotation @override est utilisée lorsque la méthode de sous-classe remplace sa méthode de superclasse. 
+En utilisant l'annotation Java @override pour indiquer que la méthode remplace sa méthode de classe parente, 
+un compilateur émet un avertissement si la méthode annotée n'est pas remplacée.
+
+20)
+1 - A : False
+  - B : True
+2 - A : True
+  - B : False
+
+21)
+
+
+Compilateur multiplateformes:
+traduit le programme en un code intermédiaire
+(Bytecode) indépendant de la machine 
+(exécuté une seule fois)
+
+Interpréteur:
+lit le Bytecode et l’exécute sur la 
+machine 
+(exécuté à chaque fois que le 
+programme est appelé) -> JVM
+
+
+
+SUPP : 
+Difference entre une classe abstraite et une interface ? 
+Une classe abstraite peut avoir du code dans le copr des méthodes qui posséde, ce qui n'est pas autorisé dans une interface
+Avec les classe abstraites, vous hériter de votre classe et Java n'autorise l'héritage multiple mais on peut implémenter
+plusieurs interface.
+
+
+
