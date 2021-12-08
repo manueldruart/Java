@@ -1,4 +1,4 @@
-package com.company.exoAbstractPoint;
+package com.company.Part1.exoAbstractPoint;
 
 public class Point {
     private double x;

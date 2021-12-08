@@ -1,4 +1,4 @@
-package com.company.ExoSerialization2;
+package com.company.Serialization.ExoSerialization2;
 
 import java.io.*;
 import java.util.Scanner;

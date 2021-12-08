@@ -1,4 +1,4 @@
-package com.company.ExoJour;
+package com.company.Part1.ExoJour;
 
 public class Jour {
     private int num;

@@ -1,4 +1,4 @@
-package com.company.InteretExercice;
+package com.company.Part1.InteretExercice;
 
 public class PlacementMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company.exoForme;
+package com.company.Part1.exoForme;
 
 public class Triangle implements forme{
     private double sideFirst;

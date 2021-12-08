@@ -1,4 +1,4 @@
-package com.company.exoPoint;
+package com.company.Part1.exoPoint;
 
 public class Segment {
     private Point pointA;

@@ -1,4 +1,4 @@
-package com.company.tvaExercice;
+package com.company.Part1.tvaExercice;
 
 public class Produit {
     private String reference;

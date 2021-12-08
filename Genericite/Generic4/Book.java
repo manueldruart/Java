@@ -1,9 +1,9 @@
 package com.company.Genericite.Generic4;
 
-public class Video implements Media{
+public class Book implements Media{
     private String name;
 
-    public Video(String name) {
+    public Book(String name) {
         this.name = name;
     }
 
@@ -17,7 +17,7 @@ public class Video implements Media{
 
     @Override
     public String toString() {
-        return "Video{" +
+        return "Book{" +
                 "name='" + name + '\'' +
                 '}';
     }

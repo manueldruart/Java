@@ -1,4 +1,4 @@
-package com.company.Velo;
+package com.company.Part1.Velo;
 
 public class Velo {
     String marque;

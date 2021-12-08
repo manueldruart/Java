@@ -1,4 +1,4 @@
-package com.company.ExoBase;
+package com.company.Part1.ExoBase;
 import java.util.concurrent.ThreadLocalRandom;
 public class Main {
 

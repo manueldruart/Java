@@ -1,4 +1,4 @@
-package com.company.InteretExercice;
+package com.company.Part1.InteretExercice;
 
 public class Placement {
     private double interet;

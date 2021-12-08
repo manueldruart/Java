@@ -1,4 +1,4 @@
-package com.company.InterneAnonyme.SortCityCountry;
+package com.company.LambdaExpressions.ExerciceCountryCity;
 
 public class Ville {
     private String name;

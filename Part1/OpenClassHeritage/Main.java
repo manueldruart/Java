@@ -1,4 +1,4 @@
-package com.company.OpenClassHeritage;
+package com.company.Part1.OpenClassHeritage;
 
 public class Main {
     public static void main(String[] args) {

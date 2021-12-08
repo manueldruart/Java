@@ -1,6 +1,4 @@
-package com.company.tvaExercice;
-
-import java.io.OutputStream;
+package com.company.Part1.tvaExercice;
 
 public class ProduitMain {
 

@@ -1,6 +1,9 @@
-package com.company.InterneAnonyme.SortCityCountry;
+package com.company.LambdaExpressions.ExerciceCountryCity;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class Pays {
     private String name;
@@ -38,12 +41,22 @@ public class Pays {
                 '}';
     }
 
-    public void sortVilles(){
+  /*  public void sortVilles(){
         Collections.sort(this.villes, new Comparator<Ville>() {
             @Override
             public int compare(Ville o1, Ville o2) {
                 return o1.getName().compareTo(o2.getName());
             }
+        
         });
+        
+        
+    }*/
+
+    // Replace the method with the simplify lambda expressions
+
+    public void sortVillesLambda() {
+        Collections.sort(this.villes,(o1, o2) -> o1.getName().compareTo(o2.getName()) );
+
     }
 }

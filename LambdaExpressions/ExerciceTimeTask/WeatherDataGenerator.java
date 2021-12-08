@@ -1,4 +1,4 @@
-package com.company.InterneAnonyme.TimerTask;
+package com.company.LambdaExpressions.ExerciceTimeTask;
 
 import java.util.Random;
 import java.util.Timer;
@@ -20,6 +20,11 @@ public class WeatherDataGenerator extends Timer {
                 System.out.println("humiditee: " + humidite);
             }
         };
+
+
+        // There is more than one method used so the lambda expression can't be
+        // used in this case
+
 
         this.schedule(this.timerTask, delay, interval);
     }

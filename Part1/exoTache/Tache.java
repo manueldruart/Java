@@ -1,4 +1,4 @@
-package com.company.exoTache;
+package com.company.Part1.exoTache;
 
 public class Tache {
     private String nom;

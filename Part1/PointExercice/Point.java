@@ -1,4 +1,4 @@
-package com.company.PointExercice;
+package com.company.Part1.PointExercice;
 
 public class Point {
     private int x;

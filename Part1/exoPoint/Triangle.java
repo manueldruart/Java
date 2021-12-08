@@ -1,4 +1,4 @@
-package com.company.exoPoint;
+package com.company.Part1.exoPoint;
 
 public class Triangle {
     private Point pointA;

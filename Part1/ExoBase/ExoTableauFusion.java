@@ -1,6 +1,4 @@
-package com.company.ExoBase;
-import java.util.Arrays;
-
+package com.company.Part1.ExoBase;
 import java.util.Arrays;
 
 public class ExoTableauFusion {

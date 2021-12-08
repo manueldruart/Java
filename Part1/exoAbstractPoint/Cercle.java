@@ -1,4 +1,4 @@
-package com.company.exoAbstractPoint;
+package com.company.Part1.exoAbstractPoint;
 
 public class Cercle extends Point{
     private double rayon;

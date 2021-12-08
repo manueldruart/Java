@@ -1,2 +1,6 @@
-package com.company.Stream.ExerciceLivreElite;public enum ElementType {
+package com.company.Stream.ExerciceLivreElite;
+
+public enum ElementType {
+    PARTIES, CHAPITRES, SCENES, ARTICLES ;
+
 }

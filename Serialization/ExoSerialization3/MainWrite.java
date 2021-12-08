@@ -1,11 +1,8 @@
-package com.company.ExoSerialization3;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.Serialization.ExoSerialization3;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.util.Scanner;
 
 public class MainWrite {
     public static void main(String[] args) {

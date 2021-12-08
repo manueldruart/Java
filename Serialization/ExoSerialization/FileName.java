@@ -1,4 +1,4 @@
-package com.company.ExoSerialization;
+package com.company.Serialization.ExoSerialization;
 
 import java.io.DataOutputStream;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.company.InterneAnonyme.SortCityCountry;
+package com.company.LambdaExpressions.ExerciceCountryCity;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Main {
         belgique.addVille(new Ville("Tubize"));
 
         System.out.println(belgique.getVilles());
-        belgique.sortVilles();
+        belgique.sortVillesLambda();
         System.out.println(belgique.getVilles());
     }
 }

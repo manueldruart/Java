@@ -1,4 +1,4 @@
-package com.company.ExoSerialization3;
+package com.company.Serialization.ExoSerialization3;
 
 import java.io.Serializable;
 

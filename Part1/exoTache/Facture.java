@@ -1,4 +1,4 @@
-package com.company.exoTache;
+package com.company.Part1.exoTache;
 
 import java.util.Arrays;
 import java.util.Objects;

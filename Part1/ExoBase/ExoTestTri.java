@@ -1,6 +1,5 @@
-package com.company.ExoBase;
+package com.company.Part1.ExoBase;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ExoTestTri {
